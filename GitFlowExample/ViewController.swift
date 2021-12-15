@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    func app(){
+        var version = 0.1
+        
+    }
 
 }
 
