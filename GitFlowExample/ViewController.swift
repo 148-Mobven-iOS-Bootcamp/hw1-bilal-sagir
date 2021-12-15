@@ -14,12 +14,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
-    func hotfix()
-    {
-        // hotfix
-    }
-    
     func app()
     {
         var version = 0.1
@@ -31,7 +25,22 @@ class ViewController: UIViewController {
         //new feature in progress
     }
 
+    func hotfix()
+    {
+        // hotfix
+    }
+    
     func feature3()
+    {
+        
+    }
+    
+    func feature4()
+    {
+        var newInput = 0
+    }
+    
+    func feature5()
     {
         
     }
