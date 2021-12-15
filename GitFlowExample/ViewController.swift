@@ -28,6 +28,8 @@ class ViewController: UIViewController {
         
     }
     
-    func feature4(){ }
+    func feature4(){
+        var newInput = 0
+    }
 }
 
