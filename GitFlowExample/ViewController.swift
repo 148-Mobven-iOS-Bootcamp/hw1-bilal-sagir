@@ -16,8 +16,11 @@ class ViewController: UIViewController {
 
     func app(){
         var version = 0.1
+        var future1 = "future1"
         
     }
+    
+    
 
     func feature3(){
         
